@@ -15,4 +15,4 @@ jobs:
  call-workflow-passing-data:
    uses: ./.github/workflows/founsation.yml
    with:
-      wsname: "test"
+      path: "test"
