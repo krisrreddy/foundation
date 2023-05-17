@@ -14,5 +14,5 @@ jobs:
   # This workflow contains a single job called "build"
  call-workflow-passing-data:
    uses: ./.github/workflows/founsation.yml
-   with:
-      path: "test"
+  # with:
+  #    path: "test"
